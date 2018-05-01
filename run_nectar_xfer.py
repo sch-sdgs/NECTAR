@@ -1,6 +1,7 @@
 from nectar import nectar_class
 import argparse
 import os
+from producers.StarLims import StarLimsApi
 
 import ConfigParser
 
@@ -22,10 +23,6 @@ def main():
 
     for patient in s:
         if not n.is_done(patient["CONTAINERID"]):
-
-
-
-
 
 
 if __name__ == '__main__':

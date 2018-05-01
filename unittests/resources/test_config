@@ -2,7 +2,7 @@
 ip = "iceberg.shef.ac.uk"
 port = 22
 username = "mb1mpar"
-query = NECTAR Project
+query = NECTAR - NGD
 database = /home/bioinfo/mparker/wc/NECTAR/unittests/resources/sent_samples
 
 
